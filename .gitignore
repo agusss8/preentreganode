@@ -1,0 +1,11 @@
+# Ignorar node_modules (carpeta grande con dependencias)
+node_modules/
+
+# Ignorar archivos temporales
+*.log
+
+# Ignorar sistema operativo y editores
+.DS_Store
+.env
+*.env
+.vscode/
